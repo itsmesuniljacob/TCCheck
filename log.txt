@@ -1,0 +1,108 @@
+
+[11:00:56]W:													 [Csc] AppSettingMgr.cs(2921, 38): warning CS0168: The variable 'ex' is declared but never used
+[11:01:00]W:										 [Csc] EMSSmtp.cs(56, 4): warning CS0618: 'SmtpMail' is obsolete: 'The recommended alternative is System.Net.Mail.SmtpClient. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:00]W:										 [Csc] EMSSmtp.cs(58, 4): warning CS0618: 'MailMessage' is obsolete: 'The recommended alternative is System.Net.Mail.MailMessage. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:00]W:										 [Csc] EMSSmtp.cs(58, 42): warning CS0618: 'MailMessage' is obsolete: 'The recommended alternative is System.Net.Mail.MailMessage. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:00]W:										 [Csc] EMSSmtp.cs(107, 31): warning CS0618: 'MailAttachment' is obsolete: 'The recommended alternative is System.Net.Mail.Attachment. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:00]W:										 [Csc] EMSSmtp.cs(112, 4): warning CS0618: 'SmtpMail' is obsolete: 'The recommended alternative is System.Net.Mail.SmtpClient. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:19]W:																 [Csc] EMSSecurity.cs(400, 41): warning CS0618: 'ConfigurationSettings.AppSettings' is obsolete: 'This method is obsolete, it has been replaced by 
+System.Configuration!System.Configuration.ConfigurationManager.AppSettings'
+[11:01:20]W:																			 [Csc] EMSSecurityServerConn.cs(937, 5): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:24]W:													 [Csc] ECGDocument.cs(242, 21): warning CS0114: 'ECGApproverSIDQuery.query(string)' hides inherited member 'CDBEMSQuery.query(string)'. To make the current member override that 
+implementation, add the override keyword. Otherwise add the new keyword.
+[11:01:24]W:													 [Csc] ExportRule.cs(424, 41): warning CS0168: The variable 'ex' is declared but never used
+[11:01:24]W:																									 [Csc] EnterpriseConfigurationServerConnection.cs(183, 7): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this 
+type, please use ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:24]W:																									 [Csc] EnterpriseConfigurationServerConnection.cs(224, 5): warning CS0618: 'SoapContext.Security' is obsolete: 'SoapContext.Security is obsolete. Consider deriving from 
+SendSecurityFilter or ReceiveSecurityFilter and creating a custom policy assertion that generates these filters.'
+[11:01:24]W:																									 [Csc] EnterpriseConfigurationServerConnection.cs(225, 5): warning CS0618: 'SoapContext.Security' is obsolete: 'SoapContext.Security is obsolete. Consider deriving from 
+SendSecurityFilter or ReceiveSecurityFilter and creating a custom policy assertion that generates these filters.'
+[11:01:24]W:																									 [Csc] EnterpriseConfigurationServerConnection.cs(226, 5): warning CS0618: 'SoapContext.Security' is obsolete: 'SoapContext.Security is obsolete. Consider deriving from 
+SendSecurityFilter or ReceiveSecurityFilter and creating a custom policy assertion that generates these filters.'
+[11:01:24]W:																									 [Csc] EnterpriseConfigurationServerConnection.cs(227, 5): warning CS0618: 'SoapContext.Security' is obsolete: 'SoapContext.Security is obsolete. Consider deriving from 
+SendSecurityFilter or ReceiveSecurityFilter and creating a custom policy assertion that generates these filters.'
+[11:01:24]W:																									 [Csc] EnterpriseConfigurationServerConnection.cs(228, 5): warning CS0618: 'SoapContext.Security' is obsolete: 'SoapContext.Security is obsolete. Consider deriving from 
+SendSecurityFilter or ReceiveSecurityFilter and creating a custom policy assertion that generates these filters.'
+[11:01:26]W:																									 [Csc] OrdersUtil.cs(1098, 21): warning CS0108: 'OrdersException.ErrorCode' hides inherited member 'EMSException.ErrorCode'. Use the new keyword if hiding was intended.
+[11:01:26]W:																									 [Csc] OrderDatabaseManager.cs(244, 11): warning CS0618: 'ConfigurationSettings.AppSettings' is obsolete: 'This method is obsolete, it has been replaced by 
+System.Configuration!System.Configuration.ConfigurationManager.AppSettings'
+[11:01:26]W:																									 [Csc] ECGGatewayManager.cs(1282, 25): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:26]W:																									 [Csc] OrderDatabaseManager.cs(1559, 8): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:26]W:																									 [Csc] OrderDatabaseManager.cs(1641, 8): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:26]W:																									 [Csc] OrderDatabaseManager.cs(1725, 8): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:26]W:																									 [Csc] OrderDatabaseManager.cs(1804, 8): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:01:29]W:																									 [Csc] ECGDatabaseManager.cs(5066, 17): warning CS0162: Unreachable code detected
+[11:01:35]W:																 [Csc] PrintManager.cs(311, 25): warning CS0162: Unreachable code detected
+[11:01:40]W:										 [Csc] ReportingFeeding.cs(24, 22): warning CS0414: The field 'ReportingFeeding.m_bError' is assigned but its value is never used
+[11:01:40]W:										 [Csc] ReportingFeeding.cs(23, 22): warning CS0414: The field 'ReportingFeeding.m_bStopWorker' is assigned but its value is never used
+[11:01:40]W:										 [Csc] ReportingFeeding.cs(25, 30): warning CS0414: The field 'ReportingFeeding.m_latestWorkerState' is assigned but its value is never used
+[11:01:42]W:										 [Csc] SystemMonitor.cs(222, 13): warning CS0618: 'ChannelServices.RegisterChannel(IChannel)' is obsolete: 'Use System.Runtime.Remoting.ChannelServices.RegisterChannel(IChannel chnl, 
+bool ensureSecurity) instead.'
+[11:01:45]W:										 [Csc] SCManager.cs(1100, 22): warning CS0219: The variable 'bContinueWithSC' is assigned but its value is never used
+[11:01:49]W:										 [Csc] IHERetrieveForDisplay.asmx.cs(1432, 24): warning CS0219: The variable 'fszResourceData' is assigned but its value is never used
+[11:02:04]W:										 [Csc] ADTUpdateService.cs(69, 30): warning CS0168: The variable 'ex' is declared but never used
+[11:02:04]W:										 [Csc] Controllers\ReanalysisController.cs(128, 20): warning CS0219: The variable 'exMessage' is assigned but its value is never used
+[11:02:04]W:										 [Csc] Controllers\ReanalysisController.cs(215, 20): warning CS0219: The variable 'exMessage' is assigned but its value is never used
+[11:02:04]W:										 [Csc] Controllers\LogController.cs(11, 32): warning CS0649: Field 'LogController.eventloger' is never assigned to, and will always have its default value null
+[11:02:04]W:										 [Csc] Controllers\LogController.cs(12, 31): warning CS0414: The field 'LogController.LOGSOURCE' is assigned but its value is never used
+[11:02:04]W:										 [Csc] Scanner\ADTScanner.cs(20, 33): warning CS0414: The field 'ADTScanner.sLog' is assigned but its value is never used
+[11:02:06]W:													 [Csc] SRForm.cs(83, 40): warning CS0414: The field 'SRForm.fSelectedType' is assigned but its value is never used
+[11:02:06]W:													 [Csc] SRForm.cs(82, 42): warning CS0414: The field 'SRForm.fSelectedSource' is assigned but its value is never used
+[11:02:21]W:																			 [Csc] AppSettingMgr.cs(2921, 38): warning CS0168: The variable 'ex' is declared but never used
+[11:02:24]W:										 [Csc] EMSSecurity.cs(400, 41): warning CS0618: 'ConfigurationSettings.AppSettings' is obsolete: 'This method is obsolete, it has been replaced by 
+System.Configuration!System.Configuration.ConfigurationManager.AppSettings'
+[11:02:24]W:													 [Csc] EMSSecurityServerConn.cs(937, 5): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:26]W:										 [Csc] EMSSmtp.cs(56, 4): warning CS0618: 'SmtpMail' is obsolete: 'The recommended alternative is System.Net.Mail.SmtpClient. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:26]W:										 [Csc] EMSSmtp.cs(58, 4): warning CS0618: 'MailMessage' is obsolete: 'The recommended alternative is System.Net.Mail.MailMessage. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:26]W:										 [Csc] EMSSmtp.cs(58, 42): warning CS0618: 'MailMessage' is obsolete: 'The recommended alternative is System.Net.Mail.MailMessage. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:26]W:										 [Csc] EMSSmtp.cs(107, 31): warning CS0618: 'MailAttachment' is obsolete: 'The recommended alternative is System.Net.Mail.Attachment. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:26]W:										 [Csc] EMSSmtp.cs(112, 4): warning CS0618: 'SmtpMail' is obsolete: 'The recommended alternative is System.Net.Mail.SmtpClient. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:27]W:							 [Csc] ECGDocument.cs(242, 21): warning CS0114: 'ECGApproverSIDQuery.query(string)' hides inherited member 'CDBEMSQuery.query(string)'. To make the current member override that 
+implementation, add the override keyword. Otherwise add the new keyword.
+[11:02:27]W:							 [Csc] ExportRule.cs(424, 41): warning CS0168: The variable 'ex' is declared but never used
+[11:02:28]W:																 [Csc] EnterpriseConfigurationServerConnection.cs(183, 7): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, 
+please use ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:28]W:																 [Csc] EnterpriseConfigurationServerConnection.cs(224, 5): warning CS0618: 'SoapContext.Security' is obsolete: 'SoapContext.Security is obsolete. Consider deriving from 
+SendSecurityFilter or ReceiveSecurityFilter and creating a custom policy assertion that generates these filters.'
+[11:02:28]W:																 [Csc] EnterpriseConfigurationServerConnection.cs(225, 5): warning CS0618: 'SoapContext.Security' is obsolete: 'SoapContext.Security is obsolete. Consider deriving from 
+SendSecurityFilter or ReceiveSecurityFilter and creating a custom policy assertion that generates these filters.'
+[11:02:28]W:																 [Csc] EnterpriseConfigurationServerConnection.cs(226, 5): warning CS0618: 'SoapContext.Security' is obsolete: 'SoapContext.Security is obsolete. Consider deriving from 
+SendSecurityFilter or ReceiveSecurityFilter and creating a custom policy assertion that generates these filters.'
+[11:02:28]W:																 [Csc] EnterpriseConfigurationServerConnection.cs(227, 5): warning CS0618: 'SoapContext.Security' is obsolete: 'SoapContext.Security is obsolete. Consider deriving from 
+SendSecurityFilter or ReceiveSecurityFilter and creating a custom policy assertion that generates these filters.'
+[11:02:28]W:																 [Csc] EnterpriseConfigurationServerConnection.cs(228, 5): warning CS0618: 'SoapContext.Security' is obsolete: 'SoapContext.Security is obsolete. Consider deriving from 
+SendSecurityFilter or ReceiveSecurityFilter and creating a custom policy assertion that generates these filters.'
+[11:02:29]W:																			 [Csc] OrdersUtil.cs(1098, 21): warning CS0108: 'OrdersException.ErrorCode' hides inherited member 'EMSException.ErrorCode'. Use the new keyword if hiding was intended.
+[11:02:29]W:																			 [Csc] OrderDatabaseManager.cs(244, 11): warning CS0618: 'ConfigurationSettings.AppSettings' is obsolete: 'This method is obsolete, it has been replaced by 
+System.Configuration!System.Configuration.ConfigurationManager.AppSettings'
+[11:02:29]W:																			 [Csc] ECGGatewayManager.cs(1282, 25): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:29]W:																			 [Csc] OrderDatabaseManager.cs(1559, 8): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:29]W:																			 [Csc] OrderDatabaseManager.cs(1641, 8): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:29]W:																			 [Csc] OrderDatabaseManager.cs(1725, 8): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:29]W:																			 [Csc] OrderDatabaseManager.cs(1804, 8): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:33]W:										 [Csc] ECGDatabaseManager.cs(5066, 17): warning CS0162: Unreachable code detected
+[11:02:50]W:							 [Csc] DiagnosticService\EcgComparer.cs(21, 13): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:50]W:							 [Csc] DiagnosticService\EcgAnalyzer.cs(18, 13): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:02:50]W:							 [Csc] WaveformElement\DrawContext.cs(160, 21): warning CS0162: Unreachable code detected
+[11:02:55]W:				 [Csc] Controllers\StudyController.cs(753, 24): warning CS0219: The variable 'strResult' is assigned but its value is never used
+[11:10:15]W:							 [Csc] DiagnosticService\EcgComparer.cs(21, 13): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:10:15]W:							 [Csc] DiagnosticService\EcgAnalyzer.cs(18, 13): warning CS0618: 'ServicePointManager.CertificatePolicy' is obsolete: 'CertificatePolicy is obsoleted for this type, please use 
+ServerCertificateValidationCallback instead. http://go.microsoft.com/fwlink/?linkid=14202'
+[11:10:15]W:							 [Csc] WaveformElement\DrawContext.cs(160, 21): warning CS0162: Unreachable code detected
+
+
