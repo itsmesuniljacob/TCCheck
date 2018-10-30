@@ -1,2 +1,2 @@
 # TCCheck
-### Testing for build trigger
+### Testing for build trigger checking
