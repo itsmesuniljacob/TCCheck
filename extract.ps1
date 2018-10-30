@@ -20,4 +20,5 @@ if ($fileCountCurrent.Lines -gt $fileCountPrevious.Lines) {
 }
 else {
   Write-Output "No action needed"
+  throw "Outputs not equal- Failing build"
 }
